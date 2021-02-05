@@ -1,0 +1,11 @@
+main: me.Elimar.TrainingSimulator.Main
+name: TrainingSimulator
+version: 1.0
+author: Elimar
+api-version: 1.14
+
+commands:
+  mlgwater:
+    usage: "Usage: /mlgwater [height] [range_of_variation]"
+
+  rbp:
